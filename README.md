@@ -6,7 +6,8 @@ This is intended to be a tool used to assist in the tracking of the results of g
 - Tracks cards played most/least often and the end results of the game
 - Stores those results in an analysis-capable format
 - Once enough results have been gathered, does analysis on the results
-- Does all the above in a containerized manner.
+- Does all the above in a repeatable, scripted manner (though initial testing is done in jupyter)
+- Uses containers / free AWS/Azure resources for any real-time components
 
 
 ## Technical pieces required
